@@ -32,7 +32,7 @@
 - Building tech that solves real-world problems.
 - Learning new programming languages and frameworks.
  
-**Core Work Values:*
+**Core Work Values:**
 - Inclusivity.
 - Integrity
 - Ubuntu-based collaboration.
