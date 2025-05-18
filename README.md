@@ -4,9 +4,9 @@
 ### Personal Information
 
 - **Name:** Bukho Keanu Gubevu 
-- **Date:**18 May 2025 
+- **Date:** 18 May 2025 
 - **Current Role/Position:** UNISA Student/CodeSpace Software Development Student.
-- **Field of Interest:**Software Developer
+- **Field of Interest:** Software Developer
 
 ### Part 1: Self-Assessment Reflection
 
