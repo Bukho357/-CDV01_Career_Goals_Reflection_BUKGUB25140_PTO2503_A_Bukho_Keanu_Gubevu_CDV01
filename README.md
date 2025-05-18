@@ -1,14 +1,14 @@
 
-# Career Goals Reflection 
+🧠# Career Goals Reflection 
 
-### Personal Information
+📌### Personal Information
 
 - **Name:** Bukho Keanu Gubevu 
 - **Date:**18 May 2025 
 - **Current Role/Position:** UNISA Student/CodeSpace Software Development Student.
 - **Field of Interest:**Software Developer
 
-### Part 1: Self-Assessment Reflection
+🎯### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
 **Current Skills and Areas of Expertise:**
@@ -65,7 +65,7 @@
 -Continue exploring roles that combine tech with education or community engagement.
 -Seek mentorship from tech professionals or educators.
  
-### Part 3: SMART Career Goals
+🧰### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
    -Submit all CodeSpace assignments and projects on time.
@@ -88,7 +88,7 @@
     youth development.  
    *Give back using tech for community change.*
 
-### Part 4: Action Plan
+🏆### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
 - Complete all CodeSpace coursework and projects.
